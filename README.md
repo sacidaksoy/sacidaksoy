@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sacid Aksoy
 #### Frontend Web Developer && Salesforce
-![Frontend Web Developer && Salesforce](https://t4.ftcdn.net/jpg/04/86/75/65/360_F_486756567_iMirXEjEeLRjbJECeIlHjy9l8Pta6hrT.jpg)
+![Frontend Web Developer && Salesforce](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I grew up with computers and technologies. I have been interested in programming and various IT software since university. Recently, I focused on Full Stack Web Programming and Salesforce as an admin and developer, supported my education with bootcamp in both at 6 mounths process. I have over 3 months of experience in React JS and MERN Stack related technologies, working on realtime-projects.
 
