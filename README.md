@@ -1,6 +1,3 @@
-### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 # 💫 About Me:
 Frontend Web Developer
 
