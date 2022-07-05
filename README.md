@@ -1,4 +1,5 @@
-# 💫 About Me: Frontend Developer
+# 💫 About Me:
+ *Frontend Developer*
 - 🔭 I’m currently working on Freelance Projects 
 - 🌱 I’m currently learning Next.js 
 
