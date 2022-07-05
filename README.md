@@ -9,4 +9,5 @@ Skills: REACT / JS / HTML / CSS / Firebase / Node.js
 - 🌱 I’m currently learning Next.js 
 
 
-[<img src='https://cdn-icons-png.flaticon.com/512/889/889192.png?w=360' alt='github' height='40'>](https://github.com/sacidaksoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sacid-aksoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9076317)  
+[<img src='https://cdn-icons-png.flaticon.com/512/889/889192.png?w=360' alt='github' height='40'>](https://github.com/sacidaksoy)  
+[<img src='https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sacid-aksoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9076317)  
