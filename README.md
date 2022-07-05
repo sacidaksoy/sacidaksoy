@@ -1,5 +1,6 @@
-# 💫 About Me:
-Frontend Web Developer
+# 💫 About Me: Frontend Developer
+- 🔭 I’m currently working on Freelance Projects 
+- 🌱 I’m currently learning Next.js 
 
 
 ## 🌐 Socials:
